@@ -1,0 +1,28 @@
+body{
+    background: lemonchiffon;
+}
+.panel > .panel-heading {
+    background-image: none;
+    background-color: darkcyan;
+    color: white;
+}
+h1 {
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+}
+
+.container {
+    font-family: 'Nixie One', cursive;
+    background: lemonchiffon;
+}
+
+.jumbotron {
+    background-color: darkcyan;
+    color: white;
+}
+
+#add-train-btn {
+    background-image: none;
+    background-color: darkcyan;
+    color: white;
+}
